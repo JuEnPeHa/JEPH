@@ -26,8 +26,12 @@ body {
 .videos {
     position: relative;
     height: 0px;
-    width: 100%;   
+    width: 90%;   
     padding-bottom: 56.25%;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
  }
  
  .video1 {
